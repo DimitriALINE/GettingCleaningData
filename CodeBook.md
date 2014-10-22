@@ -3,8 +3,9 @@
 >1 subject
 >     A number between [1,30] indentifying the subject.
 
-2 activity
-   A character variable identifying the activity    The six activities are "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS"and "WALKING_UPSTAIRS".
+>2 activity
+>     A character variable identifying the activity
+>     The six activities are "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS"and "WALKING_UPSTAIRS".
 
 >3 tbodyaccmean()x
 >     "t" means time domain signals
